@@ -1,0 +1,16 @@
+#container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border:2px solid red;
+    padding: 2px;
+    margin:2px;
+    background-color: palegreen;
+}
+#con{
+    display: flex;
+    justify-content: space-between;
+    border:2px solid red;
+    padding: 2px;
+    margin:2px;
+}
